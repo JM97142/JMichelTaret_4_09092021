@@ -694,6 +694,7 @@ blockquote {
     font-size: 18px;
     font-style: italic;
     margin-bottom: 5px;
+    color: black;
 }
 
 .tight-width-whitespace {
@@ -787,11 +788,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #4E342E;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FDD835!important;
 }
 
 p.tc-white {
@@ -799,13 +800,13 @@ p.tc-white {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #4E342E;
+    color: #FDD835!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #FDD835!important;
 }
 
 .ltc-white {
@@ -817,7 +818,7 @@ p.tc-white {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #4E342E!important;
 }
 
 .ltc-atomic-tangerine:hover {
