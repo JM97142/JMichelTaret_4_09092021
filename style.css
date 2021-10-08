@@ -333,7 +333,8 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -343,6 +344,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    text-decoration: underline;
 }
 
 .navbar-toggle {
